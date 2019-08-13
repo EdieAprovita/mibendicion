@@ -1,0 +1,55 @@
+/* 1.- Seleccionar la etiqueta */
+* {
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 200px;
+    height: auto;
+}
+
+#intro {
+    width: 100vw; 
+    height: 25vh;
+    background-color: green;
+    position: relative;
+}
+
+h1 {
+    color: white;
+    position:absolute;
+    left: 50%;
+    display: inline;
+}
+
+#about {
+    width: 100vw; 
+    height: 25vh;
+    background-color: blue;
+    position: relative;
+    
+}
+
+h2 {
+   position: absolute;
+   left: 50%;
+}
+
+p {
+    position: absolute;
+    
+}
+
+#Fun {
+    width: 100vw; 
+    height: 25vh;
+    background-color: orange;
+    position: relative;
+}
+
+#Contact {
+    width: 100vw; 
+    height: 25vh;
+    background-color: yellowgreen;
+    position: relative;
+}
